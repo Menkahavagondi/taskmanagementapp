@@ -1,0 +1,25 @@
+{
+  "tasks":[
+      {
+          "title":"react",
+          "description":"this is react application",
+          "duedate":"2023-12-15",
+          "status":"completed",
+          "id":1
+      },
+      {
+          "title":"redux",
+          "description":"this is redux application",
+          "duedate":"2023-12-15",
+          "status":"pending",
+          "id":2
+      },
+      {
+          "title":"react-redux",
+          "description":"this is react-redux application",
+          "duedate":"2023-12-15",
+          "status":"in progress",
+          "id":3
+      }
+  ]
+}
