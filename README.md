@@ -1,3 +1,13 @@
+# How to run the project
+1. Clone the repo from github using this link **https://github.com/Menkahavagondi/taskmanagementapp**
+2. Open VS Code and go to open folder select the file location
+3. open new terminal execute following commands:
+   a) npm install
+   b) npm start
+   
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
